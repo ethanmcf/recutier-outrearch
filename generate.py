@@ -101,7 +101,7 @@ if __name__ == "__main__":
     print(f"Company domain: {company_domain}")
     print()
     
-    subject, body = generate_ourtreach_email(recuiter_first_name, company_name)
+    subject, body = generate_ourtreach_email(recuiter_first_name.title(), company_name)
 
     recruiter_emails = generate_rectuiter_email(recuiter_first_name, recuiter_last_name, company_domain)
 

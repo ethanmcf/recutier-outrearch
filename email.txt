@@ -3,7 +3,8 @@ Software Engineering Intern - Ethan McFarland
 Hi {{NAME}},
 
 My name is Ethan and I'm currently studying Computer Science at the University of Toronto. I just recently interned at Scotiabank, where I worked as a Software Engineer on the Release Management Team for 4 months.
-I have been using {{COMPANY}} for just under a half decade now and absolutely love it! I've also hear nothing but great things about the engineers and culture and it would be a dream come true interning at {{COMPANY}} one day.
+
+I have been using {{COMPANY}} for just under a half decade now and absolutely love it! I've also heard nothing but great things about the engineers and culture and it would be a dream come true interning at {{COMPANY}} one day.
 
 I noticed the posting for the Software Engineering Internship and have already applied online. I currently have another offer pending, but I really want to intern at {{COMPANY}} this upcoming summer. Hence, I wanted to reach out to see if the role is still open and if you could share any updates regarding my candidacy. If you're not the right person to contact regarding this matter,  I would be grateful if you could forward my note to the appropriate person. Looking forward to hearing back!
 
